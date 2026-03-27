@@ -20,10 +20,10 @@
 
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
-![exp22](https://github.com/user-attachments/assets/37db4b95-cef0-48ba-b32b-e170eb145eff)
 
 
-Practical frequency of Oscillation =
+
+Practical frequency of Oscillation =159hz
 
 
-Theoritical Frequency of Oscillation =
+Theoritical Frequency of Oscillation =588hz
